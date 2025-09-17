@@ -1,4 +1,4 @@
-#include<iostream>
+#include<cstdio>
 
 void printLowercaseEnglish(int n) {
     switch(n) {
@@ -38,6 +38,7 @@ int main() {
     for(int i = a; i <= b; i++) {
         if(i>=1 && i<=9) {
             printLowercaseEnglish(i);
+            printf("\n");
         }
         else {
             if(i%2 == 0) {
