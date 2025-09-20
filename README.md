@@ -7,3 +7,5 @@ Day 3: <img width="1241" height="466" alt="image" src="https://github.com/user-a
 Day 4: <img width="1241" height="459" alt="image" src="https://github.com/user-attachments/assets/458e9bce-d6f1-4b89-8599-f3898e30bc29" />
 
 Day 5: <img width="1236" height="460" alt="image" src="https://github.com/user-attachments/assets/74bc9141-0bb3-4084-8641-b33202f07ea7" />
+
+Day 6: <img width="1223" height="452" alt="image" src="https://github.com/user-attachments/assets/6268baf3-5f52-446a-8b82-4ad4a5d70ab6" />
