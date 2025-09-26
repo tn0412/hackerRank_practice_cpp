@@ -23,3 +23,5 @@ Day 10: <img width="1219" height="150" alt="image" src="https://github.com/user-
 <img width="977" height="135" alt="image" src="https://github.com/user-attachments/assets/3e1d30a9-e9e2-4254-8a33-d4490454fcf6" />
 
 Day 11: <img width="1220" height="441" alt="image" src="https://github.com/user-attachments/assets/684dc13e-67bb-4f68-b6f1-37319bcb1f8c" />
+
+Day 12: <img width="1225" height="460" alt="image" src="https://github.com/user-attachments/assets/fc20bfc4-d7b6-4aab-93ae-0c5e0bd1f8b1" />
